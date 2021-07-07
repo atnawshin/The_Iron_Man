@@ -64,6 +64,9 @@ h2{
     border-image: linear-gradient(salmon,tomato);
     border-image-slice: 1;
 }
+.center-text{
+    text-align: center;
+}
 footer{
     text-align: center;
 }
